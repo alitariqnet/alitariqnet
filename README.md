@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alitariqnet
 - 👀 I’m interested in ... Java development.
-- 🌱 I’m currently learning ... Eclipse SWT and Spring Boot.
+- 🌱 I’m currently learning ... Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
