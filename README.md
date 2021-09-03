@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alitariqnet
 - 👀 I’m interested in ... Java development.
 - 🌱 I’m currently learning ... Spring Boot.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... CloudSim 5.0
+- 📫 How to reach me ... alibabapk@aol.com
 
 <!---
 alitariqnet/alitariqnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
