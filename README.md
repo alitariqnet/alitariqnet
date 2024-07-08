@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alitariqnet
-- 👀 I’m interested in ... Java development
+- 👀 I’m interested in ... Java & JavaScript development
 - 🌱 I’m currently learning ... Spring Boot
 - 💞️ I’m looking to collaborate on ... Java and Javascript projects
 - 📫 How to reach me ... alibabapk@aol.com
