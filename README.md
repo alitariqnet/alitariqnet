@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alitariqnet
 - 👀 I’m interested in ... C# Java Python & TypeScript development
-- 🌱 I’m currently learning ... Spring Boot & ASP.NET
-- 💞️ I’m looking to collaborate on ... C# Java and Javascript projects
+- 🌱 I’m currently working in ... Spring Boot & ASP.NET
+- 💞️ I’m looking to collaborate on ... C# Java and Python projects
 - 📫 How to reach me ... alibabapk@aol.com
 
 <!---
